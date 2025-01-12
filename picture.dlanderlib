@@ -7,6 +7,71 @@
       "status": "unpublished",
       "elements": [
         {
+          "id": "ehMXEHLGIhRxRW56a9oyU",
+          "type": "rectangle",
+          "x": 419.2000732421875,
+          "y": 266.59999084472656,
+          "animation": null,
+          "borderRadius": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "title": "Rect 1",
+          "scale": [
+            1,
+            1
+          ],
+          "width": 249.60003662109375,
+          "height": 181.6000213623047,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "#ffffff",
+          "fillStyle": "solid",
+          "automaticResponsive": false,
+          "devices": null,
+          "htmlNodeDevices": null,
+          "maxAndMinPercent": 10,
+          "minPercent": 10,
+          "maxPercent": 10,
+          "maxBetweenSpaceInResponsive": 10,
+          "minBetweenSpaceInResponsive": 10,
+          "minLeftSpaceInResponsive": 10,
+          "spaceBetweenWrappedRowsInResponsive": 10,
+          "minRightSpaceInResponsive": 10,
+          "maxInResponsive": 10,
+          "minInResponsive": 10,
+          "fixedSpaceInResponsive": false,
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "av",
+          "roundness": {
+            "type": 3
+          },
+          "seed": 1961648806,
+          "version": 60,
+          "versionNonce": 606639476,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1736243232662,
+          "link": null,
+          "locked": false
+        }
+      ],
+      "id": "_yg9jDKm-yvoSyJ7Svp35",
+      "created": 1736244270850,
+      "name": "null",
+      "category": "frames"
+    },
+    {
+      "status": "unpublished",
+      "elements": [
+        {
           "id": "CgLbwANqFIrg_LsI22LZM",
           "type": "rectangle",
           "x": 537.2000274658203,
