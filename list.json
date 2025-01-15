@@ -4,7 +4,7 @@
       "userName": "user714",
       "customFileName": "custom-886",
       "originalFileName": "simple-characters.dlanderlib",
-      "PictureName": "simple-characters.jpg",
+      "PictureName": "simple-characters.png",
       "description": "description66",
       "items": "first name, last name",
       "itemsdescription": "not1, not 2",
@@ -15,7 +15,7 @@
       "userName": "user61",
       "customFileName": "custom-200",
       "originalFileName": "baby-characters.dlanderlib",
-      "PictureName": "baby-characters.jpg",
+      "PictureName": "baby-characters.png",
       "description": "description71",
       "items": "first name, last name",
       "itemsdescription": "not1, not 2",
@@ -26,7 +26,7 @@
       "userName": "user618",
       "customFileName": "custom-709",
       "originalFileName": "cryptocurrencies.dlanderlib",
-      "PictureName": "cryptocurrencies.jpg",
+      "PictureName": "cryptocurrencies.png",
       "description": "description504",
       "items": "first name, last name",
       "itemsdescription": "not1, not 2",
@@ -37,7 +37,7 @@
       "userName": "user762",
       "customFileName": "custom-164",
       "originalFileName": "despair.dlanderlib",
-      "PictureName": "despair.jpg",
+      "PictureName": "despair.png",
       "description": "description951",
       "items": "first name, last name",
       "itemsdescription": "not1, not 2",
@@ -48,7 +48,7 @@
       "userName": "user822",
       "customFileName": "custom-458",
       "originalFileName": "domainstorytelling.dlanderlib",
-      "PictureName": "domainstorytelling.jpg",
+      "PictureName": "domainstorytelling.png",
       "description": "description433",
       "items": "first name, last name",
       "itemsdescription": "not1, not 2",
@@ -59,7 +59,7 @@
       "userName": "user331",
       "customFileName": "custom-721",
       "originalFileName": "football-icons.dlanderlib",
-      "PictureName": "football-icons.jpg",
+      "PictureName": "football-icons.png",
       "description": "description195",
       "items": "first name, last name",
       "itemsdescription": "not1, not 2",
@@ -70,7 +70,7 @@
       "userName": "user563",
       "customFileName": "custom-837",
       "originalFileName": "microsoft-apps.dlanderlib",
-      "PictureName": "microsoft-apps.jpg",
+      "PictureName": "microsoft-apps.png",
       "description": "description840",
       "items": "first name, last name",
       "itemsdescription": "not1, not 2",
@@ -81,7 +81,7 @@
       "userName": "user188",
       "customFileName": "custom-353",
       "originalFileName": "network-topology-icons.dlanderlib",
-      "PictureName": "network-topology-icons.jpg",
+      "PictureName": "network-topology-icons.png",
       "description": "description719",
       "items": "first name, last name",
       "itemsdescription": "not1, not 2",
@@ -92,7 +92,7 @@
       "userName": "user309",
       "customFileName": "custom-339",
       "originalFileName": "azure-containers.dlanderlib",
-      "PictureName": "azure-containers.jpg",
+      "PictureName": "azure-containers.png",
       "description": "description766",
       "items": "first name, last name",
       "itemsdescription": "not1, not 2",
@@ -103,7 +103,7 @@
       "userName": "user525",
       "customFileName": "custom-602",
       "originalFileName": "stick-people.dlanderlib",
-      "PictureName": "stick-people.jpg",
+      "PictureName": "stick-people.png",
       "description": "description855",
       "items": "first name, last name",
       "itemsdescription": "not1, not 2",
@@ -128,7 +128,7 @@
       "items": "first name, last name",
       "itemsdescription": "not1, not 2",
       "itemscategory": "frames , icons",
-      "PictureName": "user.jpg",
+      "PictureName": "user.png",
       "uploadedAt": "2025-01-02T11:21:25.630Z"
     },
     {
@@ -140,7 +140,7 @@
       "itemsdescription": "not1, not 2",
       "itemscategory": "icons , videos",
       "uploadedAt": "2025-01-05T06:49:17.229Z",
-      "pictureName": "user.jpg"
+      "pictureName": "user.png"
     },
     {
       "userName": "text",
@@ -151,7 +151,7 @@
       "itemsdescription": "not1, not 2",
       "itemscategory": "3d , audio",
       "uploadedAt": "2025-01-05T07:16:10.287Z",
-      "pictureName": "aliasghar.jpg"
+      "pictureName": "aliasghar.png"
     },
     {
       "userName": "aliasghar",
@@ -162,7 +162,7 @@
       "itemsdescription": ", , , , , ",
       "itemscategory": "videos, frames, photos, photos, photos, charts",
       "uploadedAt": "2025-01-13T08:30:28.920Z",
-      "pictureName": "picture.jpg",
+      "pictureName": "picture.png",
       "pictureUrl": ""
     }
   ]
