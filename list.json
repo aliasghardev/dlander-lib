@@ -128,7 +128,8 @@
       "items": "first name, last name",
       "itemsdescription": "not1, not 2",
       "itemscategory": "frames , icons",
-      "PictureName": "user.png",
+      "PictureName": "category5.png",
+      "Previewpicture": "category5.png",
       "uploadedAt": "2025-01-02T11:21:25.630Z"
     },
     {
@@ -163,7 +164,7 @@
       "itemscategory": "videos, frames, photos, photos, photos, charts",
       "uploadedAt": "2025-01-13T08:30:28.920Z",
       "PictureName": "picture.png",
-      "pictureUrl": ""
+      "Previewpicture": "picture.png",
     },
     {
       "userName": "aliasghar",
@@ -174,7 +175,8 @@
       "itemsdescription": ", , , , , , ",
       "itemscategory": ", , , , , , ",
       "uploadedAt": "2025-01-15T09:08:52.482Z",
-      "pictureName": "sss.png"
+      "PictureName": "sss.png",
+      "Previewpicture": "sss.png",
     },
     {
       "userName": "aliasghar",
