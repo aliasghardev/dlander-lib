@@ -8,7 +8,7 @@
       "items": "category1, category2, category3",
       "itemsdescription": "category11, category22, category33",
       "itemscategory": "icons, icons, icons",
-      "formtype": "craft", "frame", "html",
+      "formtype": "craft, frame, html",
       "uploadedAt": "2025-01-15T12:21:45.036Z",
       "pictureName": "test1.png",
       "previewpicture": "test1-view.png"
@@ -21,7 +21,7 @@
       "items": "category1, category2, category3",
       "itemsdescription": "category11, category22, category33",
       "itemscategory": "icons, icons, icons",
-      "formtype": "craft", "frame",
+      "formtype": "craft, frame",
       "uploadedAt": "2025-01-15T12:21:45.036Z",
       "pictureName": "category.png",
       "previewpicture": "category-view.png"
@@ -34,7 +34,7 @@
       "items": ", , , , , , , , , , ",
       "itemsdescription": ", , , , , , , , , , ",
       "itemscategory": ", , , , , , , , , , ",
-      "formtype": "craft", "html",
+      "formtype": "craft, html",
       "uploadedAt": "2025-01-15T12:22:36.721Z",
       "pictureName": "crypto.png",
       "previewpicture": "crypto-view.png"
@@ -47,7 +47,7 @@
       "items": ", ali24, null, ali, red, blue, white",
       "itemsdescription": ", , , , , , ",
       "itemscategory": ", videos, frames, photos, photos, photos, charts",
-      "formtype": "frame", "html",
+      "formtype": "frame, html",
       "uploadedAt": "2025-01-15T12:24:23.793Z",
       "pictureName": "picture.png",
       "previewpicture": "picture-view.png"
