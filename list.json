@@ -3,7 +3,10 @@
     {
       "userName": "aliasghar",
       "customFileName": "test 8",
-      "formtype": [frame, html],
+      "formtype": [
+        "html",
+        "frame"
+      ],
       "originalFileName": "test 8.dlanderlib",
       "description": "",
       "items": [
@@ -25,7 +28,11 @@
     },
     {
       "userName": "aliasghar",
-      "formtype": [craft, frame, html],
+      "formtype": [
+        "html",
+        "craft",
+        "frame"
+      ],
       "customFileName": "test 9",
       "originalFileName": "test 9.dlanderlib",
       "description": "",
@@ -54,7 +61,9 @@
     },
     {
       "userName": "aliasghar",
-      "formtype": [],
+      "formtype": [
+        "craft"
+      ],
       "customFileName": "fottball",
       "originalFileName": "fottball.dlanderlib",
       "description": "",
@@ -150,7 +159,11 @@
     },
     {
       "userName": "aliasghar",
-      "formtype": [],
+      "formtype": [
+        "html",
+        "craft",
+        "frame"
+      ],
       "customFileName": "web",
       "originalFileName": "web.dlanderlib",
       "description": "",
