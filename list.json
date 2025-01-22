@@ -80,6 +80,73 @@
       ],
       "uploadedAt": "2025-01-22T06:01:20.440Z",
       "pictureName": "fottball.png"
+    },
+    {
+      "userName": "aliasghar",
+      "formtype": [],
+      "customFileName": "amazon",
+      "originalFileName": "amazon.dlanderlib",
+      "description": "",
+      "items": [
+        {
+          "id": "Nrrgt0f4Q7N1aHwL79myn",
+          "name": "Lambda"
+        },
+        {
+          "id": "Ac_Bm1delXgs9qIQAEHUA",
+          "name": "AppSync"
+        },
+        {
+          "id": "jGgLdiN8UUs_7el5soxEv",
+          "name": "APIGateway"
+        },
+        {
+          "id": "oPOQtxbqAzoNsIKfnYd5G",
+          "name": "DynamoDB"
+        },
+        {
+          "id": "XGUEik0rpnCnd3pSb0FsI",
+          "name": "Aurora"
+        },
+        {
+          "id": "fH7B6f541OM7hYnMzmuTg",
+          "name": "EventBridge"
+        },
+        {
+          "id": "fjbOVLG1HTQsY_DXxxVWz",
+          "name": "SQS"
+        },
+        {
+          "id": "NqMwD46Lrw1ObYrSJWjx6",
+          "name": "SNS"
+        },
+        {
+          "id": "y5keVzJaxtKGcloTJ1yxj",
+          "name": "S3"
+        },
+        {
+          "id": "b0L4RnECAZcF8GYaUzZjA",
+          "name": "CloudFront"
+        },
+        {
+          "id": "YQbUvuCGM-dE_fWjJxx4G",
+          "name": "SES"
+        },
+        {
+          "id": "_vxT0A07g9yDjQkRIOdR4",
+          "name": "CloudWatch"
+        },
+        {
+          "id": "xbWlbqGWzwopMEkCKKz6O",
+          "name": "StepFunctions"
+        },
+        {
+          "id": "1baVy3QEFvYAJ5SP45AjI",
+          "name": "Amplify"
+        }
+      ],
+      "uploadedAt": "2025-01-22T06:07:33.742Z",
+      "pictureName": "amazon.png"
     }
   ]
 }
