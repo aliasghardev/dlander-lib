@@ -1,0 +1,208 @@
+{
+  "type": "dlanderlib",
+  "version": 2,
+  "source": "http://localhost:3000",
+  "libraryItems": [
+    {
+      "status": "unpublished",
+      "elements": [
+        {
+          "id": "zFM-D_AmmfB0eQH7pcNQS",
+          "type": "ellipse",
+          "x": 823.2000122070312,
+          "y": -1151.5332183837893,
+          "animation": null,
+          "borderRadius": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "title": "Circle 1",
+          "form": "craft",
+          "scale": [
+            1,
+            1
+          ],
+          "width": 198.4000244140625,
+          "height": 159.19996643066406,
+          "angle": 0,
+          "strokeColor": "rgb(1, 1, 1)",
+          "backgroundColor": "rgba(0,255,255, 1)",
+          "fillStyle": "solid",
+          "automaticResponsive": false,
+          "devices": null,
+          "htmlNodeDevices": null,
+          "maxAndMinPercent": 10,
+          "minPercent": 10,
+          "maxPercent": 10,
+          "maxBetweenSpaceInResponsive": 10,
+          "minBetweenSpaceInResponsive": 10,
+          "minLeftSpaceInResponsive": 10,
+          "spaceBetweenWrappedRowsInResponsive": 10,
+          "minRightSpaceInResponsive": 10,
+          "maxInResponsive": 10,
+          "minInResponsive": 10,
+          "fixedSpaceInResponsive": false,
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "af",
+          "roundness": {
+            "type": 2
+          },
+          "seed": 1413815823,
+          "version": 74,
+          "versionNonce": 1173616815,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1737526653679,
+          "link": null,
+          "locked": false
+        }
+      ],
+      "id": "ew89pIcH32r7tKkSDVWzY",
+      "created": 1737526673064,
+      "name": "ellipse",
+      "category": "shapes",
+      "form": "craft"
+    },
+    {
+      "status": "unpublished",
+      "elements": [
+        {
+          "id": "uLgJ_ZFFLvByCMbdOPp-E",
+          "type": "diamond",
+          "x": 514.4000244140625,
+          "y": -1155.5332183837893,
+          "animation": null,
+          "borderRadius": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "title": "Diamond 2",
+          "form": "craft",
+          "scale": [
+            1,
+            1
+          ],
+          "width": 172.79998779296875,
+          "height": 150.3999786376953,
+          "angle": 0,
+          "strokeColor": "rgb(1, 1, 1)",
+          "backgroundColor": "rgba(0,255,255, 1)",
+          "fillStyle": "solid",
+          "automaticResponsive": false,
+          "devices": null,
+          "htmlNodeDevices": null,
+          "maxAndMinPercent": 10,
+          "minPercent": 10,
+          "maxPercent": 10,
+          "maxBetweenSpaceInResponsive": 10,
+          "minBetweenSpaceInResponsive": 10,
+          "minLeftSpaceInResponsive": 10,
+          "spaceBetweenWrappedRowsInResponsive": 10,
+          "minRightSpaceInResponsive": 10,
+          "maxInResponsive": 10,
+          "minInResponsive": 10,
+          "fixedSpaceInResponsive": false,
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "ae",
+          "roundness": {
+            "type": 2
+          },
+          "seed": 1965974721,
+          "version": 35,
+          "versionNonce": 1356559343,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1737526650253,
+          "link": null,
+          "locked": false
+        }
+      ],
+      "id": "fVm2P57y8558968GZAz53",
+      "created": 1737526670608,
+      "name": "diamond",
+      "category": "shapes",
+      "form": "craft"
+    },
+    {
+      "status": "unpublished",
+      "elements": [
+        {
+          "id": "pcJ3sO5i_NGIrX9X2YzEs",
+          "type": "rectangle",
+          "x": 332,
+          "y": -708.3332763671873,
+          "animation": null,
+          "borderRadius": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "title": "Rect 4",
+          "form": "craft",
+          "scale": [
+            1,
+            1
+          ],
+          "width": 90.39999389648438,
+          "height": 104,
+          "angle": 0,
+          "strokeColor": "rgb(1, 1, 1)",
+          "backgroundColor": "rgba(0,255,255, 1)",
+          "fillStyle": "solid",
+          "automaticResponsive": false,
+          "devices": null,
+          "htmlNodeDevices": null,
+          "maxAndMinPercent": 10,
+          "minPercent": 10,
+          "maxPercent": 10,
+          "maxBetweenSpaceInResponsive": 10,
+          "minBetweenSpaceInResponsive": 10,
+          "minLeftSpaceInResponsive": 10,
+          "spaceBetweenWrappedRowsInResponsive": 10,
+          "minRightSpaceInResponsive": 10,
+          "maxInResponsive": 10,
+          "minInResponsive": 10,
+          "fixedSpaceInResponsive": false,
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "ad",
+          "roundness": {
+            "type": 3
+          },
+          "seed": 2138388929,
+          "version": 24,
+          "versionNonce": 878166081,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1737526641779,
+          "link": null,
+          "locked": false
+        }
+      ],
+      "id": "5AoX_8Wa6c4ETi5ej35VG",
+      "created": 1737526644513,
+      "name": "rect",
+      "form": "html",
+      "category": "shapes"
+    }
+  ]
+}
