@@ -3,7 +3,7 @@
     {
       "userName": "aliasghar",
       "customFileName": "test 8",
-      "formtype": "frame, html",
+      "formtype": [frame, html],
       "originalFileName": "test 8.dlanderlib",
       "description": "",
       "items": [
@@ -25,7 +25,7 @@
     },
     {
       "userName": "aliasghar",
-      "formtype": "craft, frame, html",
+      "formtype": [craft, frame, html],
       "customFileName": "test 9",
       "originalFileName": "test 9.dlanderlib",
       "description": "",
